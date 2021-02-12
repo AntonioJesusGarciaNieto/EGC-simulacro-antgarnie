@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+UVUS="antgarnie1"
 
 # Application definition
 
